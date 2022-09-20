@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToolBarExample2</string>
+    <string name="share">Share</string>
+    <string name="info">Information</string>
+    <string name="rename">Rename</string>
+    <string name="open_with">Open with…</string>
+    <string name="save_as">Save as…</string>
+    <string name="delete">Delete</string>
+</resources>
